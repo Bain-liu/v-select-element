@@ -1,9 +1,0 @@
-.scroll{
-    overflow-y: auto;
-    max-height: 150px;
-    background: #fff;
-}
-.list-item{
-    display: flex;
-    align-items: center;
-}
